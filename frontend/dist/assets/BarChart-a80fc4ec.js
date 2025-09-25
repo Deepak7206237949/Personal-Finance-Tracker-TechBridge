@@ -1,0 +1,2 @@
+import{j as a}from"./index-72eb5a6f.js";import{B as n,C as l,g as o,d as i,e as d,p,a as c}from"./index-dc7be06c.js";l.register(o,i,d,p,c);function g({labels:e,incomes:s,expenses:t}){const r={labels:e,datasets:[{label:"Income",data:s},{label:"Expense",data:t}]};return a.jsxs("div",{children:[a.jsx("h4",{children:"Income vs Expense"}),a.jsx(n,{data:r})]})}export{g as default};
+//# sourceMappingURL=BarChart-a80fc4ec.js.map

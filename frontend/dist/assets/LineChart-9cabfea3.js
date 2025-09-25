@@ -1,0 +1,2 @@
+import{j as e}from"./index-72eb5a6f.js";import{L as n,C as i,b as r,c as o,d,e as p,f,p as c,a as m}from"./index-dc7be06c.js";i.register(r,o,d,p,f,c,m);function g({labels:a,incomes:t,expenses:l}){const s={labels:a,datasets:[{label:"Income",data:t,fill:!1},{label:"Expense",data:l,fill:!1}]};return e.jsxs("div",{children:[e.jsx("h4",{children:"Monthly Trend"}),e.jsx(n,{data:s})]})}export{g as default};
+//# sourceMappingURL=LineChart-9cabfea3.js.map
