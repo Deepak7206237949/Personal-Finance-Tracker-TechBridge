@@ -51,6 +51,10 @@ Track your **income & expenses**, get **visual analytics**, and manage your fina
 
 ### 🔧 Backend (Node.js + Express)  
 - **Database**: MySQL + Prisma ORM  
+
+<img width="1814" height="947" alt="image" src="https://github.com/user-attachments/assets/e78240ab-c50c-4621-9905-1fe437e11144" />
+
+
 - **Auth**: JWT + refresh token rotation  
 - **Cache**: Redis  
 - **Validation**: Express-validator  
