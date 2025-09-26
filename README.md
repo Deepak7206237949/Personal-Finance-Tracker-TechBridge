@@ -1,6 +1,6 @@
 # 💰 Personal Finance Tracker – TechBridge  
 
-## Front-end Url -- https://personal-finance-tracker-techbridge.netlify.app/
+## Live URL for Website -- https://personal-finance-tracker-techbridge.netlify.app/
 
 A **full-stack web application** to take control of your money 💵.  
 Track your **income & expenses**, get **visual analytics**, and manage your financial journey — all in one place!  
@@ -31,7 +31,8 @@ Track your **income & expenses**, get **visual analytics**, and manage your fina
 - Income vs Expense trends (Bar 📊 & Line 📈)  
 - Beautiful & interactive charts
 
-- <img width="1915" height="934" alt="image" src="https://github.com/user-attachments/assets/602eacfe-2fc7-467d-8755-bb392e56833f" />
+-<img width="1920" height="1016" alt="image" src="https://github.com/user-attachments/assets/bb894692-6f0f-41c8-bbcd-f697f45e2c87" />
+
 
 
 ### ⚙️ Technical Goodies  
